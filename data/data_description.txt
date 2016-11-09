@@ -1,0 +1,87 @@
+-filename:64StepsWalking1Female.csv
+-steps:64
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Christopher Zhu
+-date: 11/7/16
+**********************************
+-filename:64StepsWalking2Female.csv
+-steps:64
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Christopher Zhu
+-date: 11/7/16
+**********************************
+-filename:64StepsWalking1Male.csv
+-steps:64
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Mahima Kapila
+-date: 11/7/16
+**********************************
+-filename:64StepsWalking2Male.csv
+-steps:64
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Mahima Kapila
+-date: 11/7/16
+**********************************
+-filename:36StepsWalkAndPause1Female.csv
+-steps:36
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Christopher Zhu
+-date: 11/7/16
+**********************************
+-filename:36StepsWalkAndPause2Female.csv
+-steps:36
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Christopher Zhu
+-date: 11/7/16
+**********************************
+-filename:36StepsWalkAndPause1Male.csv
+-steps:36
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Mahima Kapila
+-date: 11/7/16
+**********************************
+-filename:36StepsWalkAndPause2Male.csv
+-steps:36
+-phone_model:iPhone 6
+-subject_age:16
+-subject_gender:
+-gait:comfortable_walk
+-phone_location:left_ankle
+-data_log_freq:60
+-collection_supervisor:Mahima Kapila
+-date: 11/7/16
